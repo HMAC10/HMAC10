@@ -1,10 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hunter)](https://git.io/typing-svg)
-
-**Building AI systems for the physical world — drones, infrastructure, and autonomous inspection.**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HMAC10&theme=dark&hide_border=true&ring=76B900&fire=76B900&currStreakLabel=76B900)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hunter;Builder.+Founder.+Tinkerer.)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +8,7 @@
 
 ## What I'm Working On
 - **PARALLAX**: Natural language drone inspection powered by 8 NVIDIA AI tools. One command → simulated → flown. [Check it out →](https://github.com/HMAC10/Parallax)
-- **AI + Infrastructure**: Applying computer vision and route optimization to real-world inspection problems
+- **AI + Physical Systems**: Applying AI to real-world problems in infrastructure, automation, and beyond
 - **New ventures**: More startup ideas underway
 
 ## Background
