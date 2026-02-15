@@ -1,6 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=435&lines=Hi%2C+I'm+Hunter)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hunter)](https://git.io/typing-svg)
 
 **Building AI systems for the physical world — drones, infrastructure, and autonomous inspection.**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HMAC10&theme=dark&hide_border=true&ring=76B900&fire=76B900&currStreakLabel=76B900)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
