@@ -7,7 +7,7 @@
 ---
 
 ## What I'm Working On
-- **PARALLAX**: Natural language drone inspection powered by 8 NVIDIA AI tools. One command → simulated → flown. [Check it out →](https://github.com/HMAC10/Parallax)
+- **PARALLAX**: Natural language drone inspection. One command → simulated → flown. [Check it out →](https://github.com/HMAC10/Parallax)
 - **Regenify.AI**: Building an ML-powered ESG risk intelligence platform for investment teams (Building)
 - **Meeting Ninja**: Personalized meeting notes tool specializing in simplicity, cost-effectiveness, and UX (Coming Soon)
 - **AI + Physical Systems**: Applying AI to real-world problems in infrastructure, automation, and beyond
