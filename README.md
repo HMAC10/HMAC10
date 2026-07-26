@@ -16,7 +16,7 @@
 - University of Washington - Information Systems & Finance (3.98 GPA)
 - Co-founded an AI drone startup that won the $25K Dempsey Startup Competition (1st of 174 teams) and $15K Environmental Innovation Challenge (1st of 43 teams)
 - Built knowledge graph + AI ingestion infrastructure at an early-stage fintech startup.
-- Built AI data automation tools used in production at a $1B+ construction firm
+- Created AI data automation tools used in production at a $1B+ construction firm
 
 ## Tech Stack
 <p>
