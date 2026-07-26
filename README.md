@@ -15,6 +15,7 @@
 ## Background
 - University of Washington - Information Systems & Finance (3.98 GPA)
 - Co-founded an AI drone startup that won the $25K Dempsey Startup Competition (1st of 174 teams) and $15K Environmental Innovation Challenge (1st of 43 teams)
+- Built knowledge graph + AI ingestion infrastructure at an early-stage fintech startup.
 - Built AI data automation tools used in production at a $1B+ construction firm
 
 ## Tech Stack
@@ -33,6 +34,11 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
 </p>
 
 ## Let's Connect
